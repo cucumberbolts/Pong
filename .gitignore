@@ -1,0 +1,6 @@
+#Directories
+.vs/
+
+#Files
+Pong.sln
+Pong/Pong.pyproj
